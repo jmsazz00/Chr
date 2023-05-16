@@ -12,7 +12,7 @@ function Warning(props) {
           </h1>
           <img className="warning__logo" src="./logo192.png"></img>
         </header>
-        <div className="warning__box">
+        <div className="warning__box" data-aos="flip-down">
           <span>!</span>
           <p>
             Due to unwanted technical issues, we have shut down the website
