@@ -17,7 +17,7 @@ function Warning(props) {
           <p>
             Due to unwanted technical issues, we have shut down the website
             until further notice. Could you give us your feedback about the
-            following?
+            following below?
           </p>
         </div>
       </div>
