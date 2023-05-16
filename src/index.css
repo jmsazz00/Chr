@@ -294,6 +294,10 @@ h3 {
   align-items: center;
 }
 
+.warning-block {
+  min-height: 100vh;
+}
+
 @media screen and (min-width: 768px) {
   .warning__box {
     width: 60%;
