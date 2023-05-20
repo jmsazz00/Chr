@@ -284,7 +284,7 @@ h3 {
 }
 
 .warning-block {
-  min-height: 85vh;
+  min-height: 92vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -299,7 +299,7 @@ h3 {
   width: 80%;
   display: inline-flex;
   justify-content: center;
-  align-items: center;
+  align-items: end;
   position: relative;
 }
 
